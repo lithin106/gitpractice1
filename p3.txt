@@ -1,3 +1,6 @@
 1st commit
 2nd commit
+<<<<<<< HEAD
 3rd commit
+=======
+>>>>>>> 663c422 (second commit)
